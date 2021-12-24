@@ -1,2 +1,2 @@
 # Non-Local-Means 
-Non local means filter implementation
+Non local means filter implementation (image denoising).

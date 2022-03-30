@@ -1,2 +1,2 @@
 # Non-Local-Means 
-Non local means filter implementation (image denoising).
+I implement A Non Local Means filter on C(C++) and CUDA.
